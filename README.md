@@ -5,5 +5,5 @@ This project is a Quickstart to Neural Networks using `Pytorch` the goal is the 
 and the creation of a first model using fixed parameters, however, the code built is general enough to support more
 complex models that the are being explored in this work.
 
-* ##### [Colab link]([este link](https://colab.research.google.com/drive/1pdoj2grwFUNa7ZTY5TPefsedY0VDW2_4#scrollTo=8K6u9gS-JXIT))
-Comments are enabled and are wecolme.
+* ##### [Colab link](https://drive.google.com/file/d/1yEfgrdIbSLaffCuusZQtsgAnGJFZ6m8r/view?usp=sharing)
+Comments are enabled and are welcomed.
